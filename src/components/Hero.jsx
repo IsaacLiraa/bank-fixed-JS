@@ -21,7 +21,7 @@ const Hero = () => {
             <span className="text-gradient">Generation</span> {" "}
           </h1>
 
-          <div className="sm:flex sm:mr-4 mr-0">
+          <div className="sm:flex hidden sm:mr-4 mr-0">
             <GetStarted />
           </div>
         </div>
