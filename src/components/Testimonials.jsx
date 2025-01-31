@@ -1,8 +1,11 @@
-import React from 'react'
+import { people01, people02, people03 } from '../assets'
+import styles, { layout } from '../style'
 
 const Testimonials = () => {
   return (
-    <div>Testimonials</div>
+    <section id='testimonials' className={layout.section}>
+      <div></div>
+    </section>
   )
 }
 
