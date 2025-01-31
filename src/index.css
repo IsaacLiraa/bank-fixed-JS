@@ -63,6 +63,14 @@
   );
 }
 
+.text-dimWhite {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.bg-dimBlue {
+  background-color: rgba(9, 151, 124, 0.1);
+}
+
 .bg-gray-gradient {
   background: linear-gradient(
     153.47deg,
