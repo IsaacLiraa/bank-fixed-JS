@@ -25,4 +25,4 @@ module.exports = {
     },
     plugins: [],
   };
-  
+  //importar lo mismo pero que funcione ya que al usar xs, ss, el font o primary, ninguno funciona
